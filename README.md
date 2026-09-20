@@ -1,6 +1,5 @@
 # PELCOD-2026-KELAS-D
 
-# PELCOD-2026-KELAS-A
 # Git & GitHub — Clone to Push
 
 Panduan singkat untuk mengambil (**clone**) repository dari GitHub, melakukan perubahan pada project, kemudian meng-upload (**push**) perubahan tersebut kembali ke GitHub.
